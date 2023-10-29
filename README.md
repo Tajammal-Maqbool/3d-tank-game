@@ -19,4 +19,4 @@ Tank Battle is an exciting and action-packed game that allows players to take co
 
 ## THANKS
 
-Thanks for watching this repo. Hopfully this code will helpful for you.
+Thanks for watching this repo. Hopfully this code will helpful for you. [PLAY ONLINE](https://3d-tank-game.netlify.app/)
